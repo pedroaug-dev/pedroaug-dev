@@ -77,7 +77,6 @@ Desenvolvedor focado em aplicações web e dados, atuando na criação de soluç
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;Automacao+e+Integracao;Solucoes+orientadas+a+resultado"/>
-  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Python+%7C+Django+%E2%80%A2+Pandas;TypeScript+%7C+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Automa%C3%A7%C3%A3o+e+Integra%C3%A7%C3%A3o+de+Sistemas;Solu%C3%A7%C3%B5es+Escal%C3%A1veis+e+Orientadas+a+Resultados"/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,100:7C3AED&section=footer"/>
 </p>
