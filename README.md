@@ -2,17 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4F46E5,100:7C3AED&text=Pedro%20Augusto%20Guimar%C3%A3es%20Santos&fontColor=FFFFFF&fontSize=28&fontAlignY=40"/>
 </p>
 
-<p align="center">
-  <a href="mailto:SEUEMAIL">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/SEULINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://SEUPORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<p align="center"><a href="mailto:SEUEMAIL"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://linkedin.com/in/SEULINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://SEUPORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
 
 ---
 
@@ -41,8 +31,8 @@ Developer focused on web applications and data, building efficient and scalable 
 <h3>&nbsp;&nbsp;Statistics</h3>
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pedroaug-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=pedroaug-dev&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=pedroaug-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://streak-stats.demolab.com?user=pedroaug-dev&theme=tokyonight&hide_border=true"/>
 </p>
 
 </td>
