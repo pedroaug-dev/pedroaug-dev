@@ -2,9 +2,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4F46E5,100:7C3AED&text=Pedro%20Augusto%20Guimar%C3%A3es%20Santos&fontColor=FFFFFF&fontSize=28&fontAlignY=40"/>
 </p>
 
-<p align="center"><a href="mailto:pedroaugustoguimaraesantos@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="www.linkedin.com/in/
+<p align="center"><a href="mailto:pedroaugustoguimaraesantos@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="www.linkedin.com/in/
 pedro-augusto-guimarães-santos
-"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://pedro-dev-developer-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
+" target="blank"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://pedro-dev-developer-portfolio.netlify.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
 
 ---
 
